@@ -18,3 +18,5 @@ no need for anything but nodejs.
  This will boot the app, pull from the server and start the game. Select one of the colored squares and your good to go. 
  
  If not running locally, you can change the server location in main.js. 
+
+Controlls are: wasd/arrow-keys for movement and n for attacks.
